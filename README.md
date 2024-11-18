@@ -28,7 +28,7 @@ Print the Huffman code for the string.
 
 #### Get the input String
 ``` Python
-string = 'KISHORE'
+string = 'CHANDRASEKAR'
 ```
 #### Create tree nodes
 ``` Python
